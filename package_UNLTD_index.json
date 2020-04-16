@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/unltdltd/SAMD21-Custom/blob/master/UNLTD-1.0.0.zip",
+          "url": "https://github.com/unltdltd/SAMD21-Custom/raw/master/UNLTD-1.0.0.zip",
           "archiveFileName": "UNLTD-1.0.0.zip",
           "checksum": "SHA-256:C16DE04345D3D2C1C774F1B979789AF5FCED1173FC919EDB78FC190A7A6DCCD9",
           "size": "1467996",
