@@ -19,7 +19,7 @@
           "size": "1467996",
           "boards": [
             {
-              "name": "SAMD21 Custom"
+              "name": "SAMD21E Custom"
             }
           ],
           "toolsDependencies":
