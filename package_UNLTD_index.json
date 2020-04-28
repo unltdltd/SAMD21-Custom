@@ -2,14 +2,14 @@
   "packages":
   [
     {
-      "name": "SAMD21 Custom",
+      "name": "UNLTDLTD",
       "maintainer": "Unlimited Design",
       "websiteURL": "http://unlimiteddesignltd.com",
       "email" : "info@unlimiteddesignltd.com",
       "platforms":
       [
         {
-          "name": "UNLTD Boards",
+          "name": "UNLTD SAMD Boards",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
