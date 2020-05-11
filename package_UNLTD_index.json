@@ -50,6 +50,56 @@
               "version": "1.2.0"
             }
           ]
+        },
+        {
+      "name": "UNLTDLTD",
+      "maintainer": "Unlimited Design",
+      "websiteURL": "http://unlimiteddesignltd.com",
+      "email" : "info@unlimiteddesignltd.com",
+      "platforms":
+      [
+        {
+          "name": "UNLTD SAMD Boards",
+          "architecture": "samd",
+          "version": "1.1.0",
+          "category": "Contributed",
+          "url": "https://github.com/unltdltd/SAMD21-Custom/raw/master/UNLTD-1.1.0.zip",
+          "archiveFileName": "UNLTD-1.1.0.zip",
+          "checksum": "SHA-256:CB400251C4C1E26F1E71E09FE7373708DE6F90AFC6A016CC8536A1432466CFEE",
+          "size": "1468402",
+          "boards": [
+            {
+              "name": "SAMD21E Custom"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
         }
       ],
       "tools":
