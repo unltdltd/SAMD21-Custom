@@ -11,49 +11,6 @@
         {
           "name": "UNLTD SAMD Boards",
           "architecture": "samd",
-          "version": "1.0.0",
-          "category": "Contributed",
-          "url": "https://github.com/unltdltd/SAMD21-Custom/raw/master/UNLTD-1.0.0.zip",
-          "archiveFileName": "UNLTD-1.0.0.zip",
-          "checksum": "SHA-256:C16DE04345D3D2C1C774F1B979789AF5FCED1173FC919EDB78FC190A7A6DCCD9",
-          "size": "1467996",
-          "boards": [
-            {
-              "name": "SAMD21E Custom"
-            }
-          ],
-          "toolsDependencies":
-          [
-            {
-              "packager": "arduino",
-              "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.8.0-48-gb176eee"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.10.0-arduino9"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.0"
-            }
-          ]
-        },
-        {
-          "name": "UNLTD SAMD Boards",
-          "architecture": "samd",
           "version": "1.1.0",
           "category": "Contributed",
           "url": "https://github.com/unltdltd/SAMD21-Custom/raw/master/UNLTD-1.1.0.zip",
