@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name": "UNLTDLTD",
+      "name": "SAMD21 Custom",
       "maintainer": "Unlimited Design",
       "websiteURL": "http://unlimiteddesignltd.com",
       "email" : "info@unlimiteddesignltd.com",
@@ -11,15 +11,15 @@
         {
           "name": "UNLTD SAMD Boards",
           "architecture": "samd",
-          "version": "1.1.0",
+          "version": "1.2.0",
           "category": "Contributed",
-          "url": "https://github.com/unltdltd/SAMD21-Custom/raw/master/UNLTD-1.1.0.zip",
-          "archiveFileName": "UNLTD-1.1.0.zip",
-          "checksum": "SHA-256:CB400251C4C1E26F1E71E09FE7373708DE6F90AFC6A016CC8536A1432466CFEE",
-          "size": "1468402",
+          "url": "https://github.com/unltdltd/SAMD21-Custom/blob/master/UNLTD-1.2.0.zip",
+          "archiveFileName": "UNLTD-1.2.0.zip",
+          "checksum": "SHA-256:090538F05953F34FC29E981368DA787EAD47D68DA0687253344FDB5EB91FFBD8",
+          "size": "1448210",
           "boards": [
             {
-              "name": "SAMD21E Custom"
+              "name": "SAMD21 Custom"
             }
           ],
           "toolsDependencies":
