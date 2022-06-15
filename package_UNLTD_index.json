@@ -131,6 +131,51 @@
             }
           ],
           "size": "1448210"
+        },
+        {
+          "boards": [
+            {
+              "name": "SAMD21E Custom"
+            },
+            {
+              "name": "SAMD21E RF Remote"
+            }
+          ],
+          "architecture": "samd",
+          "name": "UNLTD SAMD Boards",
+          "category": "Contributed",
+          "version": "1.3.0",
+          "archiveFileName": "UNLTD-1.3.0.zip",
+          "checksum": "SHA-256:BF59F28F2FDA19F5C91C0853494F81F14AE661D7FD22114380538BE7ABB5C63C",
+          "url": "https://github.com/unltdltd/SAMD21-Custom/raw/master/UNLTD-1.3.0.zip",
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ],
+          "size": "1469321"
         }
       ],
       "tools":
